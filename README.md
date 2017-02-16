@@ -1,5 +1,7 @@
 # WordPress
 
+[orginal](https://github.com/kubernetes/charts/tree/master/stable/wordpress)
+
 [WordPress](https://wordpress.org/) is one of the most versatile open source content management systems on the market. A publishing platform for building blogs and websites.
 
 ## TL;DR;
